@@ -106,7 +106,7 @@ Minimal missing values were observed; redundant columns with constant values wer
 
 ---
 
-## 6. Strategic Recommendations  
+## Strategic Recommendations  
 1. **Reallocate Resources**: Shift budget from 7-day to 4-day campaigns  
 2. **Budget Controls**: Special monitoring for Real Estate campaigns  
 3. **Scale Success**: Expand Reach campaign strategies  
